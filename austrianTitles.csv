@@ -1,111 +1,111 @@
-BA;1
-B.A.;1
-B.A.(Econ.);1
-Bakk. art.;1
-Bakk. rer. nat.;1
-Bakk. phil.;1
-Bakk. iur.;1
-Bakk. techn.;1
-BArch;1
-BEd;1
-B.Ed.Univ.;1
-B.Eng.;1
-B.phil.;1
-B.Rel.Ed.Univ.;1
-BSc;1
-BScN;1
-B.Sc.;1
-BStat;1
-B.techn.;1
-BTh;1
-LLB;1
-LL.B;1
-LLB. oec.;1
-Bacc. rel. paed.;1
-Bakk.;1
-Bakk. pth.;1
-BBA;1
-B.B.A.;1
-BEng;1
-B.S.;1
-LL.M.;1
-LL.M. (Wirtschaftsrecht);1
-LLM. oec.;1
-MA;1
-M.A.;1
-M.A.(Econ.);1
-MArch;1
-MAEd;1
-MEd;1
-M.Ed.Univ.;1
-MIBI;1
-MLBT;1
-M.phil.;1
-M.Rel.Ed.;1
-MSc;1
-M.Sc.;1
-MScMF;1
-MSSc;1
-MStat;1
-MTh;1
-M.Theol.;1
-MBA;1
-M.B.A.;1
-MSc.;1
-Dipl.-Ing.;0
-LLM;1
-DI;0
-MLE;1
-Dipl.-Ing. (FH);0
-DI (FH);0
-Dr. med. dent.;0
-Dr. med. univ.;0
-Mag. art.;0
-Mag. des. ind.;0
-Mag. (FH);0
-Mag. iur.;0
-Mag. iur. rer. oec.;0
-Mag. med. vet.;0
-Mag. pharm.;0
-Mag. phil.;0
-Mag. Psych.;0
-Mag. pth.;0
-Mag. rel. paed.;0
-Mag. rer. nat.;0
-Mag. rer. soc. oec.;0
-Mag. sc. hum.;0
-Mag. theol.;0
-Dr. artium;0
-Dr. iur.;0
-Dr. med. dent. et scient. med.;0
-Dr. med. univ. et scient. med.;0
-Dr. med. vet.;0
-Dr. med. vet. et scient.;0
-Dr. mont.;0
-Dr. nat. techn.;0
-Dr. phil.;0
-Dr. phil. fac. theol.;0
-Dr. rer. cur.;0
-Dr. rer. nat.;0
-Dr. rer. oec.;0
-Dr. rer. soc. oec.;0
-Dr. scient. med.;0
-Dr. scient. vet.;0
-Dr. techn.;0
-Dr. theol.;0
-PhD;1
-Ingenieurin;0
-Ingenieur;0
-Ing.;0
-UnivAss;0
-AssProf;0
-AssA;0
-o UnivProf;0
-ao UnivProf;0
-UnivProf;0
-Fachhochschulprofessor;0
-Fachhochschulprofessorin;0
-Fachhochschullektor;0
-Fachhochschullektorin;0
-PU;0
-Prof;0
+BA,1
+B.A.,1
+B.A.(Econ.),1
+Bakk. art.,1
+Bakk. rer. nat.,1
+Bakk. phil.,1
+Bakk. iur.,1
+Bakk. techn.,1
+BArch,1
+BEd,1
+B.Ed.Univ.,1
+B.Eng.,1
+B.phil.,1
+B.Rel.Ed.Univ.,1
+BSc,1
+BScN,1
+B.Sc.,1
+BStat,1
+B.techn.,1
+BTh,1
+LLB,1
+LL.B,1
+LLB. oec.,1
+Bacc. rel. paed.,1
+Bakk.,1
+Bakk. pth.,1
+BBA,1
+B.B.A.,1
+BEng,1
+B.S.,1
+LL.M.,1
+LL.M. (Wirtschaftsrecht),1
+LLM. oec.,1
+MA,1
+M.A.,1
+M.A.(Econ.),1
+MArch,1
+MAEd,1
+MEd,1
+M.Ed.Univ.,1
+MIBI,1
+MLBT,1
+M.phil.,1
+M.Rel.Ed.,1
+MSc,1
+M.Sc.,1
+MScMF,1
+MSSc,1
+MStat,1
+MTh,1
+M.Theol.,1
+MBA,1
+M.B.A.,1
+MSc.,1
+Dipl.-Ing.,0
+LLM,1
+DI,0
+MLE,1
+Dipl.-Ing. (FH),0
+DI (FH),0
+Dr. med. dent.,0
+Dr. med. univ.,0
+Mag. art.,0
+Mag. des. ind.,0
+Mag. (FH),0
+Mag. iur.,0
+Mag. iur. rer. oec.,0
+Mag. med. vet.,0
+Mag. pharm.,0
+Mag. phil.,0
+Mag. Psych.,0
+Mag. pth.,0
+Mag. rel. paed.,0
+Mag. rer. nat.,0
+Mag. rer. soc. oec.,0
+Mag. sc. hum.,0
+Mag. theol.,0
+Dr. artium,0
+Dr. iur.,0
+Dr. med. dent. et scient. med.,0
+Dr. med. univ. et scient. med.,0
+Dr. med. vet.,0
+Dr. med. vet. et scient.,0
+Dr. mont.,0
+Dr. nat. techn.,0
+Dr. phil.,0
+Dr. phil. fac. theol.,0
+Dr. rer. cur.,0
+Dr. rer. nat.,0
+Dr. rer. oec.,0
+Dr. rer. soc. oec.,0
+Dr. scient. med.,0
+Dr. scient. vet.,0
+Dr. techn.,0
+Dr. theol.,0
+PhD,1
+Ingenieurin,0
+Ingenieur,0
+Ing.,0
+UnivAss,0
+AssProf,0
+AssA,0
+o UnivProf,0
+ao UnivProf,0
+UnivProf,0
+Fachhochschulprofessor,0
+Fachhochschulprofessorin,0
+Fachhochschullektor,0
+Fachhochschullektorin,0
+PU,0
+Prof,0
